@@ -1,0 +1,43 @@
+[
+   {
+      "id": 1,
+      "product_name": "Chiquita Banane ca. 200g",
+      "weight": 200,
+      "price": 0.39,
+      "discount": 0,
+      "picture": "https://img.rewe-static.de/7230923/24568904_digital-image.png?resize=176px:176px&output-quality=80&output-format=webp&im=BackgroundColor,color=fffff"
+   },
+   {
+      "id": 2,
+      "product_name": "Apfel Braeburn rot ca. 200g",
+      "weight": 200,
+      "price": 0.59,
+      "discount": 0,
+      "picture": "https://img.rewe-static.de/5825563/24568906_digital-image.png?resize=176px:176px&output-quality=80&output-format=webp&im=BackgroundColor,color=fffff"
+   },
+   {
+      "id": 3,
+      "product_name": "Apfel Pink Lady 6 Stück in der Schale",
+      "weight": "",
+      "price": 3.19,
+      "discount": 0,
+      "picture": "https://img.rewe-static.de/1907459/23271229_digital-image.png?resize=176px:176px&output-quality=80&output-format=webp&im=BackgroundColor,color=fffff"
+   },
+   {
+      "id": 4,
+      "product_name": "Avocado Hass essreif 1 Stück",
+      "weight": "",
+      "price": 1.49,
+      "discount": 0.30,
+      "picture": "https://img.rewe-static.de/0151854/25018105_digital-image.png?resize=176px:176px&output-quality=80&output-format=webp&im=BackgroundColor,color=fffff"
+   },
+   {
+      "id": 5,
+      "product_name": "Himbeeren 125g",
+      "weight": 125,
+      "price": 1.99,
+      "discount": 0,
+      "picture": "https://img.rewe-static.de/8448551/31583158_digital-image.png?resize=176px:176px&output-quality=80&output-format=webp&im=BackgroundColor,color=fffff"
+   }
+]
+
